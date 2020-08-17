@@ -7,9 +7,9 @@
 <a><img src="https://visitor-badge.laobi.icu/badge?page_id=lorenzo-stacchio.lorenzo-stacchio" alt="visitors"></a>
 <p>
 
-  <em>Master's Computer Science student at <a href="https://www.unibo.it/it">University of Bologna</a> <img src="https://media.giphy.com/media/LNrWZ1Cl70uDOWW5rH/giphy.gif" width="50"></br>
+  Master's Computer Science student at <a href="https://www.unibo.it/it">University of Bologna</a> <img src="https://media.giphy.com/media/LNrWZ1Cl70uDOWW5rH/giphy.gif" width="50"></br>
   Artificial intelligence and data science enthusiast  <img src="https://media.giphy.com/media/ckJF143W1gBS8Hk833/giphy.gif" width="50"> 
-</em>
+
 </p>
 
 ### <img src="https://media.giphy.com/media/LRIVkygJ5CID6IEMes/giphy.gif" width="50"> A little more about me...  
