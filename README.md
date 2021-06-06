@@ -1,4 +1,4 @@
-<h2> Hi, I'm Lorenzo! <img src="https://media.giphy.com/media/wpoLqr5FT1sY0/source.gif" width="50"></h2>
+<h2><img src="https://media.giphy.com/media/wpoLqr5FT1sY0/source.gif" width="50"> Hi, I'm Lorenzo! </h2>
 
 
 <a href="https://www.linkedin.com/in/lorenzo-stacchio" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lorenzo-stacchio/)" alt="LinkedIn"></a>
