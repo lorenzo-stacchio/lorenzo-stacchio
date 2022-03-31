@@ -7,6 +7,13 @@
 <a href="https://www.instagram.com/lorenzo.stacchio/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/lorenzo.stacchio" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a><img src="https://visitor-badge.laobi.icu/badge?page_id=lorenzo-stacchio.lorenzo-stacchio" alt="visitors"></a>
+
+<p>
+  
+[![AI For Fashion](https://github-readme-stats.vercel.app/api/pin/?username=lorenzo-stacchio&repo=AI-For-Fashion)](https://github.com/lorenzo-stacchio/AI-For-Fashion) 
+
+[![Cool Metaverse Paper](https://github-readme-stats.vercel.app/api/pin/?username=lorenzo-stacchio&repo=Cool-Metaverse-Paper)](https://github.com/lorenzo-stacchio/Cool-Metaverse-Paper)
+</p>
 <p>
 
   <img src="https://media.giphy.com/media/LNrWZ1Cl70uDOWW5rH/giphy.gif" width="50">  PhD student in Computer Science at <a href="https://www.unibo.it/it">University of Bologna</a> </br></br></br>
