@@ -10,11 +10,8 @@
 
 <p align="center">
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![AI For Fashion](https://github-readme-stats.vercel.app/api/pin/?username=lorenzo-stacchio&repo=AI-For-Fashion)](https://github.com/lorenzo-stacchio/AI-For-Fashion) 
 [![Virtual Reality](https://github-readme-stats.vercel.app/api/pin/?username=lorenzo-stacchio&repo=Virtual_Augmented_Reality_Lab_21_22)](https://github.com/lorenzo-stacchio/Virtual_Augmented_Reality_Lab_21_22) 
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Cool Metaverse Paper](https://github-readme-stats.vercel.app/api/pin/?username=lorenzo-stacchio&repo=Cool-Metaverse-Paper)](https://github.com/lorenzo-stacchio/Cool-Metaverse-Paper)
   
 </p>
