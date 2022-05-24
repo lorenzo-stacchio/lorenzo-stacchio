@@ -8,11 +8,11 @@
 <a><img src="https://visitor-badge.laobi.icu/badge?page_id=lorenzo-stacchio.lorenzo-stacchio" alt="visitors"></a>
 <br>
 
-## Preferred programming languages
+<!--## Preferred programming languages
 
 <a><img src="https://img.shields.io/badge/Python-0000FF?style=for-the-badge&logo=python&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
-<!--<a><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>-->
+<a><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>-->
 
 ## Highlighted repositories
 
