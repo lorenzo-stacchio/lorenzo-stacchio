@@ -6,6 +6,13 @@
 <a href="https://www.instagram.com/lorenzo.stacchio/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/lorenzo.stacchio" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a><img src="https://visitor-badge.laobi.icu/badge?page_id=lorenzo-stacchio.lorenzo-stacchio" alt="visitors"></a>
+<br>
+
+## Preferred programming languages
+
+<a><img src="https://img.shields.io/badge/Python-0000FF?style=for-the-badge&logo=python&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
+<!--<a><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>-->
 
 ## Highlighted repositories
 
@@ -21,7 +28,7 @@
 
 ## Education
 
- * PhD student in Computer Science at [University of Bologna](https://www.unibo.it/it) (2020)
+ * PhD student in Computer Science at [University of Bologna](https://www.unibo.it/it) (2020/2023)
  * Master Degree in Computer Science at [University of Bologna](https://www.unibo.it/it) (2018/2020)
  * Bachelor Degree in Computer Science at [University of Camerino](https://www.unicam.it/myunicam) (2015/2018)
 
@@ -37,5 +44,6 @@ Passionate about data science and artificial intelligence.
 
 ## <img src="https://media.giphy.com/media/3orieJRHB5DJjrVmqk/giphy.gif" width="50"> Profile statistics
 ![lorenzostacchio's github stats](https://github-readme-stats.vercel.app/api?username=lorenzo-stacchio&show_icons=true)
-<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzo-stacchio&langs_count=3)](https://github.com/lorenzo-stacchio/github-readme-stats)
+
 <br />
