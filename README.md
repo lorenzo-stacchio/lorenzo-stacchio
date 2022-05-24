@@ -1,5 +1,4 @@
-# <h2><img src="https://media.giphy.com/media/wpoLqr5FT1sY0/source.gif" width="50"> Hi, I'm Lorenzo! </h2>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=06B121&lines=Hi%2C+I'm+Lorenzo!)](https://git.io/typing-svg)
 
 <a href="https://scholar.google.com/citations?user=oHkM91kAAAAJ&hl=it&oi=ao" target="_blank"><img src="https://img.shields.io/badge/Google-Scholar-blue" alt="Scholar"></a>
 <a href="https://lorenzo-stacchio.github.io/" target="_blank"><img src="https://img.shields.io/badge/github.io-4285F4?style=flat-square&logo=GitHub&logoColor=white"></a>
