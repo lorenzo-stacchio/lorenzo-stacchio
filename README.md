@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=06B121&lines=Hi%2C+I'm+Lorenzo!)](https://git.io/typing-svg)
 
 <a href="https://scholar.google.com/citations?user=oHkM91kAAAAJ&hl=it&oi=ao" target="_blank"><img src="https://img.shields.io/badge/Google-Scholar-blue" alt="Scholar"></a>
+<a href="https://www.researchgate.net/profile/Lorenzo-Stacchio?ev=hdr_xprf" target="_blank"><img src="https://img.shields.io/badge/Research-Gate-brightgreen" alt="RG"></a>
 <a href="https://lorenzo-stacchio.github.io/" target="_blank"><img src="https://img.shields.io/badge/github.io-4285F4?style=flat-square&logo=GitHub&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/lorenzo-stacchio" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lorenzo-stacchio/" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/lorenzo.stacchio/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
@@ -18,11 +19,12 @@
 
 <p align="center">
 
-[![AI For Fashion course](https://github-readme-stats.vercel.app/api/pin/?username=lorenzo-stacchio&repo=AI-For-Fashion)](https://github.com/lorenzo-stacchio/AI-For-Fashion) 
+
+[![Cool Metaverse Paper](https://github-readme-stats.vercel.app/api/pin/?username=lorenzo-stacchio&repo=Cool-Metaverse-Paper)](https://github.com/lorenzo-stacchio/Cool-Metaverse-Paper)
 [![Virtual Reality course](https://github-readme-stats.vercel.app/api/pin/?username=lorenzo-stacchio&repo=Virtual_Augmented_Reality_Lab_21_22)](https://github.com/lorenzo-stacchio/Virtual_Augmented_Reality_Lab_21_22) 
   
 [![Big Data course](https://github-readme-stats.vercel.app/api/pin/?username=lorenzo-stacchio&repo=Big_Data_Course_Rimini_2021)](https://github.com/lorenzo-stacchio/Big_Data_Course_Rimini_2021) 
-[![Cool Metaverse Paper](https://github-readme-stats.vercel.app/api/pin/?username=lorenzo-stacchio&repo=Cool-Metaverse-Paper)](https://github.com/lorenzo-stacchio/Cool-Metaverse-Paper)
+[![AI For Fashion course](https://github-readme-stats.vercel.app/api/pin/?username=lorenzo-stacchio&repo=AI-For-Fashion)](https://github.com/lorenzo-stacchio/AI-For-Fashion) 
   
 </p>
 
@@ -30,7 +32,7 @@
 
  * [Morotti, E., Stacchio, L., Donatiello, L., Roccetti, M., Tarabelli, J., & Marfia, G. (2022). Exploiting fashion x-commerce through the empowerment of voice in the fashion virtual reality arena. Virtual Reality, 26(3), 871-884.](https://link.springer.com/article/10.1007/s10055-021-00602-6)
  * [Stacchio, L., Angeli, A., Lisanti, G., Calanca, D., & Marfia, G. (2022). Towards a holistic approach to the socio-historical analysis of vernacular photos. ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM).](https://dl.acm.org/doi/abs/10.1145/3507918)
- + [Bononi, L., Donatiello, L., Longo, D., Massari, M., Montori, F., Stacchio, L., & Marfia, G. (2022). Digital Twin Collaborative Platforms: Applications to Humans-in-the-loop Crafting of Urban Areas. IEEE Consumer Electronics Magazine.](https://ieeexplore.ieee.org/abstract/document/9920185)
+ * [Bononi, L., Donatiello, L., Longo, D., Massari, M., Montori, F., Stacchio, L., & Marfia, G. (2022). Digital Twin Collaborative Platforms: Applications to Humans-in-the-loop Crafting of Urban Areas. IEEE Consumer Electronics Magazine.](https://ieeexplore.ieee.org/abstract/document/9920185)
 
 ## Education
 
