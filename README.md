@@ -30,13 +30,14 @@
 
 ## Selected publications
 
+ * [Stacchio, L., Angeli, A., Donatiello, L., Giacche, A., & Marfia, G. (2022, October). Rethinking Augmented Wine Recognition. In 2022 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct) (pp. 560-565). IEEE.](https://ieeexplore.ieee.org/abstract/document/9974589?casa_token=J4Cp3lJuD20AAAAA:JVSjecRtArY60i-lD-F5FawXG9a1oKjJ6LJy6ek_2HxEhu28_8o554P-ESU_dJDi4lPFVbI)
  * [Morotti, E., Stacchio, L., Donatiello, L., Roccetti, M., Tarabelli, J., & Marfia, G. (2022). Exploiting fashion x-commerce through the empowerment of voice in the fashion virtual reality arena. Virtual Reality, 26(3), 871-884.](https://link.springer.com/article/10.1007/s10055-021-00602-6)
  * [Stacchio, L., Angeli, A., Lisanti, G., Calanca, D., & Marfia, G. (2022). Towards a holistic approach to the socio-historical analysis of vernacular photos. ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM).](https://dl.acm.org/doi/abs/10.1145/3507918)
  * [Bononi, L., Donatiello, L., Longo, D., Massari, M., Montori, F., Stacchio, L., & Marfia, G. (2022). Digital Twin Collaborative Platforms: Applications to Humans-in-the-loop Crafting of Urban Areas. IEEE Consumer Electronics Magazine.](https://ieeexplore.ieee.org/abstract/document/9920185)
 
 ## Education
 
- * Ph.D. student in Computer Science at [University of Bologna](https://www.unibo.it/it) (2020/2023)
+ * Ph.D. student in Computer Science at [University of Bologna](https://www.unibo.it/it) (2020/2024)
  * Master Degree in Computer Science at [University of Bologna](https://www.unibo.it/it) (2018/2020)
  * Bachelor Degree in Computer Science at [University of Camerino](https://www.unicam.it/myunicam) (2015/2018)
 
