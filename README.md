@@ -24,8 +24,10 @@
 [![Virtual Reality course](https://github-readme-stats.vercel.app/api/pin/?username=lorenzo-stacchio&repo=Virtual_Augmented_Reality_Lab_21_22)](https://github.com/lorenzo-stacchio/Virtual_Augmented_Reality_Lab_21_22) 
   
 [![Big Data course](https://github-readme-stats.vercel.app/api/pin/?username=lorenzo-stacchio&repo=Big_Data_Course_Rimini_2021)](https://github.com/lorenzo-stacchio/Big_Data_Course_Rimini_2021) 
-[![AI For Fashion course](https://github-readme-stats.vercel.app/api/pin/?username=lorenzo-stacchio&repo=AI-For-Fashion)](https://github.com/lorenzo-stacchio/AI-For-Fashion) 
-  
+<!-- [![AI For Fashion course](https://github-readme-stats.vercel.app/api/pin/?username=lorenzo-stacchio&repo=AI-For-Fashion)](https://github.com/lorenzo-stacchio/AI-For-Fashion) 
+   -->
+[![Stable Diffusion for Inpainting without prompt conditioning](https://github-readme-stats.vercel.app/api/pin/?username=lorenzo-stacchio&repo=stable-diffusion_custom_inpaint)](https://github.com/lorenzo-stacchio/stable-diffusion_custom_inpaint) 
+
 </p>
 
 ## Selected publications
