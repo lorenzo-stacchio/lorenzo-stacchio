@@ -4,7 +4,7 @@
 <a href="https://www.researchgate.net/profile/Lorenzo-Stacchio?ev=hdr_xprf" target="_blank"><img src="https://img.shields.io/badge/Research Gate-%1997B5.svg?&style=flat-square&logo=researchgate&logoColor=white" alt="Research Gate"></a>
 <a href="https://lorenzo-stacchio.github.io/" target="_blank"><img src="https://img.shields.io/badge/github.io-4285F4?style=flat-square&logo=GitHub&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/lorenzo-stacchio" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lorenzo-stacchio/" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/lorenzo_stacchio/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.youtube.com/@digidestined" target="_blank"><img src="https://img.shields.io/badge/Youtube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white" alt="Youtube"></a>
 <a href="https://twitter.com/_sta_ch_" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a><img src="https://visitor-badge.glitch.me/badge?page_id=lorenzo-stacchio.visitor-badge" alt="visitors"></a>
 <br>
