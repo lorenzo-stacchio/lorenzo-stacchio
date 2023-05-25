@@ -36,6 +36,15 @@ I am currently attending a Ph.D. course in Computer Science at the [University o
 
 </p>
  -->
+ 
+ 
+## Education
+
+ * Ph.D. student in Computer Science at [University of Bologna](https://www.unibo.it/it) (2020/2024)
+ * Master Degree in Computer Science at [University of Bologna](https://www.unibo.it/it) (2018/2020)
+ * Bachelor Degree in Computer Science at [University of Camerino](https://www.unicam.it/myunicam) (2015/2018)
+
+
 ## Selected publications
 * [Stacchio, L., Armandi, V., Donatiello, L., & Marfia, G. (2023, March). AnnHoloTator: A Mixed Reality Collaborative Platform for Manufacturing Work Instruction Interaction. In 2023 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW) (pp. 418-424). IEEE.](https://ieeexplore.ieee.org/abstract/document/10108830/)
 * [Stacchio, L., Angeli, A., & Marfia, G. (2022). Empowering digital twins with eXtended reality collaborations. Virtual Reality & Intelligent Hardware, 4(6), 487-505.](https://www.sciencedirect.com/science/article/pii/S2096579622000596)
@@ -43,16 +52,10 @@ I am currently attending a Ph.D. course in Computer Science at the [University o
  * [Morotti, E., Stacchio, L., Donatiello, L., Roccetti, M., Tarabelli, J., & Marfia, G. (2022). Exploiting fashion x-commerce through the empowerment of voice in the fashion virtual reality arena. Virtual Reality, 26(3), 871-884.](https://link.springer.com/article/10.1007/s10055-021-00602-6)
  * [Stacchio, L., Angeli, A., Lisanti, G., Calanca, D., & Marfia, G. (2022). Towards a holistic approach to the socio-historical analysis of vernacular photos. ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM).](https://dl.acm.org/doi/abs/10.1145/3507918)
 
-## Education
-
- * Ph.D. student in Computer Science at [University of Bologna](https://www.unibo.it/it) (2020/2024)
- * Master Degree in Computer Science at [University of Bologna](https://www.unibo.it/it) (2018/2020)
- * Bachelor Degree in Computer Science at [University of Camerino](https://www.unicam.it/myunicam) (2015/2018)
-
 </br>
 
 ## <img src="https://media.giphy.com/media/3orieJRHB5DJjrVmqk/giphy.gif" width="50"> Profile statistics
 ![lorenzostacchio's github stats](https://github-readme-stats.vercel.app/api?username=lorenzo-stacchio&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzo-stacchio&langs_count=3)](https://github.com/lorenzo-stacchio/github-readme-stats)
-
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzo-stacchio&langs_count=3)](https://github.com/lorenzo-stacchio/github-readme-stats)
+ -->
 <br />
