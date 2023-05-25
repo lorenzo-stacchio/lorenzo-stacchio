@@ -9,13 +9,16 @@
 <a><img src="https://visitor-badge.glitch.me/badge?page_id=lorenzo-stacchio.visitor-badge" alt="visitors"></a>
 <br>
 
+## <img src="https://media.giphy.com/media/LRIVkygJ5CID6IEMes/giphy.gif" width="50"> Bio  
+I am currently attending a Ph.D. course in Computer Science at the [University of Bologna](https://www.unibo.it/it) with a focus on the application of Computer Vision and Extended Reality paradigms in different Industrial Fields and Cultural Heritage. Before that, I got a Bachelor’s and Master’s degree in Computer Science. During the last years, I fell in love with all that concerns the data: their creation, cleaning, analysis, and learning from them. I’m particularly interested in the latter: I think that extracting knowledge from data through Artificial Intelligence (AI) methods is one of the coolest things Computer Science can offer to the world. I am also interested in Mixed Reality approaches to take advantage of AI methods to create beautiful applications in different contexts.
+
 <!--## Preferred programming languages
 
 <a><img src="https://img.shields.io/badge/Python-0000FF?style=for-the-badge&logo=python&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>-->
 
-## Highlighted repositories
+<!-- ## Highlighted repositories
 
 <p align="center">
 
@@ -27,7 +30,7 @@
 [![Stable Diffusion for Inpainting without prompt conditioning](https://github-readme-stats.vercel.app/api/pin/?username=lorenzo-stacchio&repo=stable-diffusion_custom_inpaint)](https://github.com/lorenzo-stacchio/stable-diffusion_custom_inpaint) 
 
 </p>
-
+ -->
 ## Selected publications
 * [Stacchio, L., Armandi, V., Donatiello, L., & Marfia, G. (2023, March). AnnHoloTator: A Mixed Reality Collaborative Platform for Manufacturing Work Instruction Interaction. In 2023 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW) (pp. 418-424). IEEE.](https://ieeexplore.ieee.org/abstract/document/10108830/)
 * [Stacchio, L., Angeli, A., & Marfia, G. (2022). Empowering digital twins with eXtended reality collaborations. Virtual Reality & Intelligent Hardware, 4(6), 487-505.](https://www.sciencedirect.com/science/article/pii/S2096579622000596)
@@ -40,14 +43,6 @@
  * Ph.D. student in Computer Science at [University of Bologna](https://www.unibo.it/it) (2020/2024)
  * Master Degree in Computer Science at [University of Bologna](https://www.unibo.it/it) (2018/2020)
  * Bachelor Degree in Computer Science at [University of Camerino](https://www.unicam.it/myunicam) (2015/2018)
-
-
-</br>
-
-## <img src="https://media.giphy.com/media/LRIVkygJ5CID6IEMes/giphy.gif" width="50"> A little more about me...  
-I am an energetic and solution oriented computer scientist with a solid knowledge in software development and design.
-Adept at motivating self and others.
-Passionate about data science and artificial intelligence.
 
 </br>
 
