@@ -59,8 +59,8 @@ Bachelor Degree | Computer Science | [University of Camerino](https://www.unicam
 
 </br>
 
-## <img src="https://media.giphy.com/media/3orieJRHB5DJjrVmqk/giphy.gif" width="50"> Profile statistics
-![lorenzostacchio's github stats](https://github-readme-stats.vercel.app/api?username=lorenzo-stacchio&show_icons=true)
+<!-- ## <img src="https://media.giphy.com/media/3orieJRHB5DJjrVmqk/giphy.gif" width="50"> Profile statistics
+![lorenzostacchio's github stats](https://github-readme-stats.vercel.app/api?username=lorenzo-stacchio&show_icons=true) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzo-stacchio&langs_count=3)](https://github.com/lorenzo-stacchio/github-readme-stats)
  -->
-<br />
+<!-- <br /> -->
