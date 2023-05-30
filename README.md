@@ -43,9 +43,11 @@ I am currently attending a Ph.D. course in Computer Science at the [University o
  
 ## Education
 
- * Ph.D. student in Computer Science at [University of Bologna](https://www.unibo.it/it) (2020/2024)
- * Master Degree in Computer Science at [University of Bologna](https://www.unibo.it/it) (2018/2020)
- * Bachelor Degree in Computer Science at [University of Camerino](https://www.unicam.it/myunicam) (2015/2018)
+| Title  | Scientific Area | University | Start Year | Graduation Year|
+| ------------- | ------------- | -----------------------------------------------------------------------------------------------------------------| ------------- | ----------- |
+Ph.D. | Computer Science | [University of Bologna](https://www.unibo.it/it) | 2020 | 2024 |
+Master Degree | Computer Science | [University of Bologna](https://www.unibo.it/it)| 2018 | 2020 |
+Bachelor Degree | Computer Science | [University of Camerino](https://www.unicam.it/myunicam) | 2015| 2018 |
 
 
 ## Selected publications
