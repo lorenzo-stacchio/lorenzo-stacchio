@@ -13,12 +13,12 @@
 
  <img src="https://drive.google.com/uc?export=view&id=1JgRLhRkrVnd18lIEKrgf5SxqxDFZXhXn" width="25%"> 
  
-<p align="center"> This image was generated with <a href="https://github.com/lllyasviel/ControlNet/blob/main/README.md#controlnet-with-canny-edge">Controlnet conditoned with Canny Edge </a> using my profile pic and the Bio that follows. <br> I named it "Average Ph.D. Student in its last year".
+<p align="center"> This image was generated with <a href="https://github.com/lllyasviel/ControlNet/blob/main/README.md#controlnet-with-canny-edge">Controlnet conditoned with Canny Edge </a> using my profile pic and the Bio that follows. <br> I named it "Average Ph.D. student in his/her final year".
 <p>
 <p>
   
 ## <img src="https://media.giphy.com/media/LRIVkygJ5CID6IEMes/giphy.gif" width="50"> Bio  
-I am currently attending a Ph.D. course in Computer Science at the [University of Bologna](https://www.unibo.it/it) with a focus on the application of Computer Vision and Extended Reality paradigms in different Industrial Fields and Cultural Heritage. Before that, I got a Bachelor’s and Master’s degree in Computer Science. During the last few years, I fell in love with all that concerns the data: their creation, cleaning, analysis, and learning from them. I’m particularly interested in the latter: I think that extracting knowledge from data through Artificial Intelligence (AI) methods is one of the coolest things Computer Science can offer to the world. I am also interested in Mixed Reality approaches to take advantage of AI methods to create beautiful applications in different contexts.
+I am currently attending a Ph.D. course in Computer Science at the [University of Bologna](https://www.unibo.it/it) focusing on pipelining Artificial Intelligence and eXtended Reality paradigms for industrial and cultural heritage applications. Before that, I got a Master’s degree in Computer Science. During the last few years, I fell in love with all that concerns the data: their creation, cleaning, analysis, and the wisdom we can extract from them. I personally think that recognizing patterns from data through Artificial Intelligence methods is one of the coolest things Computer Science can offer to the world. At the same time, integrating those methods with eXtended Reality paradigms to define easy-to-use and functional systems usable by anyone at any time, is something that completely conquered my heart.
 
 <!--## Preferred programming languages
 
