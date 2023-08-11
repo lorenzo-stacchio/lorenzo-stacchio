@@ -63,12 +63,11 @@ Bachelor Degree | Computer Science | [University of Camerino](https://www.unicam
 
 ## Technologies 
 
-### Programming languages and markup languages
+### Programming languages
 ![](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
 
 ### Frameworks
