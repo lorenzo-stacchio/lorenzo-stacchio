@@ -17,7 +17,9 @@
 <p>
 <p>
   
-## <img src="https://media.giphy.com/media/LRIVkygJ5CID6IEMes/giphy.gif" width="50"> Bio  
+<!--## <img src="https://media.giphy.com/media/LRIVkygJ5CID6IEMes/giphy.gif" width="50"> -->
+
+## Biography
 I am currently attending a Ph.D. course in Computer Science at the [University of Bologna](https://www.unibo.it/it) focusing on pipelining Artificial Intelligence and eXtended Reality paradigms for industrial and cultural heritage applications. Before that, I got a Master’s degree in Computer Science. During the last few years, I fell in love with all that concerns the data: their creation, cleaning, analysis, and the wisdom we can extract from them. I personally think that recognizing patterns from data through Artificial Intelligence methods is one of the coolest things Computer Science can offer to the world. At the same time, integrating those methods with eXtended Reality paradigms to define easy-to-use and functional systems usable by anyone at any time, is something that completely conquered my heart.
 
 <!--## Preferred programming languages
@@ -58,6 +60,32 @@ Bachelor Degree | Computer Science | [University of Camerino](https://www.unicam
  * [Stacchio, L., Angeli, A., Lisanti, G., Calanca, D., & Marfia, G. (2022). Towards a holistic approach to the socio-historical analysis of vernacular photos. ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM).](https://dl.acm.org/doi/abs/10.1145/3507918)
 
 </br>
+
+## Technologies 
+
+### Programming languages and markup languages
+![](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
+![](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+
+
+### Frameworks
+
+![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![](https://img.shields.io/badge/-Lightning-792ee5?logo=pytorchlightning&logoColor=white)
+![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+<!--![](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)-->
+
+
+
+## Profile Statistics
+
+<p align="left">
+  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=lorenzo-stacchio&rank_icon=github" />
+</p>
+
 
 <!-- ## <img src="https://media.giphy.com/media/3orieJRHB5DJjrVmqk/giphy.gif" width="50"> Profile statistics
 ![lorenzostacchio's github stats](https://github-readme-stats.vercel.app/api?username=lorenzo-stacchio&show_icons=true) -->
