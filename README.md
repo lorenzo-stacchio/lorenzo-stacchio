@@ -53,10 +53,9 @@ Bachelor Degree | Computer Science | [University of Camerino](https://www.unicam
 
 
 ## Selected publications
+ * [Scorolli, C., Grasso, E. N., Stacchio, L., Armandi, V., Matteucci, G., & Marfia, G. (2023). Would you rather come to a tango concert in theater or in VR? Aesthetic emotions & social presence in musical experiences, either live, 2D or 3D. Computers in Human Behavior, 107910.](https://www.sciencedirect.com/science/article/abs/pii/S0747563223002613)
 * [Stacchio, L., Armandi, V., Donatiello, L., & Marfia, G. (2023, March). AnnHoloTator: A Mixed Reality Collaborative Platform for Manufacturing Work Instruction Interaction. In 2023 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW) (pp. 418-424). IEEE.](https://ieeexplore.ieee.org/abstract/document/10108830/)
 * [Stacchio, L., Angeli, A., & Marfia, G. (2022). Empowering digital twins with eXtended reality collaborations. Virtual Reality & Intelligent Hardware, 4(6), 487-505.](https://www.sciencedirect.com/science/article/pii/S2096579622000596)
- * [Stacchio, L., Angeli, A., Donatiello, L., Giacche, A., & Marfia, G. (2022, October). Rethinking Augmented Wine Recognition. In 2022 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct) (pp. 560-565). IEEE.](https://ieeexplore.ieee.org/abstract/document/9974589?casa_token=J4Cp3lJuD20AAAAA:JVSjecRtArY60i-lD-F5FawXG9a1oKjJ6LJy6ek_2HxEhu28_8o554P-ESU_dJDi4lPFVbI)
- * [Morotti, E., Stacchio, L., Donatiello, L., Roccetti, M., Tarabelli, J., & Marfia, G. (2022). Exploiting fashion x-commerce through the empowerment of voice in the fashion virtual reality arena. Virtual Reality, 26(3), 871-884.](https://link.springer.com/article/10.1007/s10055-021-00602-6)
  * [Stacchio, L., Angeli, A., Lisanti, G., Calanca, D., & Marfia, G. (2022). Towards a holistic approach to the socio-historical analysis of vernacular photos. ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM).](https://dl.acm.org/doi/abs/10.1145/3507918)
 
 </br>
