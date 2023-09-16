@@ -6,7 +6,8 @@
 <a href="https://www.linkedin.com/in/lorenzo-stacchio" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lorenzo-stacchio/" alt="LinkedIn"></a>
 <a href="https://www.youtube.com/@digidestined" target="_blank"><img src="https://img.shields.io/badge/Youtube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white" alt="Youtube"></a>
 <a href="https://twitter.com/_sta_ch_" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
-<a><img src="https://visitor-badge.glitch.me/badge?page_id=lorenzo-stacchio.visitor-badge" alt="visitors"></a>
+<a><img src="https://api.visitorbadge.io/api/VisitorHit?user=lorenzo-stacchiof&repo=github-visitors-badge&countColor=#00FF00"></a>
+
 <br>
 
 <p align="center">
@@ -53,7 +54,8 @@ Bachelor Degree | Computer Science | [University of Camerino](https://www.unicam
 
 
 ## Selected publications
- * [Scorolli, C., Grasso, E. N., Stacchio, L., Armandi, V., Matteucci, G., & Marfia, G. (2023). Would you rather come to a tango concert in theater or in VR? Aesthetic emotions & social presence in musical experiences, either live, 2D or 3D. Computers in Human Behavior, 107910.](https://www.sciencedirect.com/science/article/abs/pii/S0747563223002613)
+* [Stacchio, L., Angeli, A., Lisanti, G., & Marfia, G. (2023). Analyzing cultural relationships visual cues through deep learning models in a cross-dataset setting. Neural Computing and Applications, 1-16.](https://link.springer.com/article/10.1007/s00521-023-08966-3)
+<!-- * [Scorolli, C., Grasso, E. N., Stacchio, L., Armandi, V., Matteucci, G., & Marfia, G. (2023). Would you rather come to a tango concert in theater or in VR? Aesthetic emotions & social presence in musical experiences, either live, 2D or 3D. Computers in Human Behavior, 107910.](https://www.sciencedirect.com/science/article/abs/pii/S0747563223002613)-->
 * [Stacchio, L., Armandi, V., Donatiello, L., & Marfia, G. (2023, March). AnnHoloTator: A Mixed Reality Collaborative Platform for Manufacturing Work Instruction Interaction. In 2023 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW) (pp. 418-424). IEEE.](https://ieeexplore.ieee.org/abstract/document/10108830/)
 * [Stacchio, L., Angeli, A., & Marfia, G. (2022). Empowering digital twins with eXtended reality collaborations. Virtual Reality & Intelligent Hardware, 4(6), 487-505.](https://www.sciencedirect.com/science/article/pii/S2096579622000596)
  * [Stacchio, L., Angeli, A., Lisanti, G., Calanca, D., & Marfia, G. (2022). Towards a holistic approach to the socio-historical analysis of vernacular photos. ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM).](https://dl.acm.org/doi/abs/10.1145/3507918)
