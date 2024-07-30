@@ -21,7 +21,9 @@
 <!--## <img src="https://media.giphy.com/media/LRIVkygJ5CID6IEMes/giphy.gif" width="50"> -->
 
 ## Biography
-I am currently attending a Ph.D. course in Computer Science at the [University of Bologna](https://www.unibo.it/it) focusing on pipelining Artificial Intelligence and eXtended Reality paradigms for industrial and cultural heritage applications. Before that, I got a Master’s degree in Computer Science. During the last few years, I fell in love with all that concerns the data: their creation, cleaning, analysis, and the wisdom we can extract from them. I personally think that recognizing patterns from data through Artificial Intelligence methods is one of the coolest things Computer Science can offer to the world. At the same time, integrating those methods with eXtended Reality paradigms to define easy-to-use and functional systems usable by anyone at any time, is something that completely conquered my heart.
+I am currently a Post Doc Researcher in Computer Science at the [University of Macerata](https://www.unimc.it/en?set_language=en) working on Deep Learning and eXtended Reality in a multidisciplinary setting. I got a Ph.D. course in Computer Science at the [University of Bologna](https://www.unibo.it/it) in 2024 focusing on pipelining Artificial Intelligence and eXtended Reality paradigms for industrial and cultural heritage applications. Before that, I got a Master’s degree in Computer Science. 
+
+I decided to keep going with academic research because of my deep love for all that concerns multidisciplinary research the data produced in this setting, and the knowledge that can be extracted from them. To me, recognizing patterns through Artificial Intelligence methods, and integrating them with eXtended Reality paradigms to define functional systems usable by anyone at any time, is one of the coolest things Computer Science can offer (and that completely conquered my heart).
 
 <!--## Preferred programming languages
 
@@ -54,11 +56,13 @@ Bachelor Degree | Computer Science | [University of Camerino](https://www.unicam
 
 
 ## Selected publications
-* [Stacchio, L., Angeli, A., Lisanti, G., & Marfia, G. (2023). Analyzing cultural relationships visual cues through deep learning models in a cross-dataset setting. Neural Computing and Applications, 1-16.](https://link.springer.com/article/10.1007/s00521-023-08966-3)
+* [Stacchio, L., Garzarella, S., Cascarano, P., De Filippo, A., Cervellati, E., & Marfia, G. (2024). DanXe: An extended artificial intelligence framework to analyze and promote dance heritage. Digital Applications in Archaeology and Cultural Heritage, 33, e00343.](https://www.sciencedirect.com/science/article/pii/S2212054824000286)
+* [Stacchio, L., Angeli, A., Lisanti, G., & Marfia, G. (2024). Analyzing cultural relationships visual cues through deep learning models in a cross-dataset setting. Neural Computing and Applications, 1-16.](https://link.springer.com/article/10.1007/s00521-023-08966-3)
+* [Scorolli, C., Grasso, E. N., Stacchio, L., Armandi, V., Matteucci, G., & Marfia, G. (2023). Would you rather come to a tango concert in theater or in vr? aesthetic emotions & social presence in musical experiences, either live, 2d or 3d. Computers in Human Behavior, 149, 107910.](https://www.sciencedirect.com/science/article/pii/S0747563223002613)
 <!-- * [Scorolli, C., Grasso, E. N., Stacchio, L., Armandi, V., Matteucci, G., & Marfia, G. (2023). Would you rather come to a tango concert in theater or in VR? Aesthetic emotions & social presence in musical experiences, either live, 2D or 3D. Computers in Human Behavior, 107910.](https://www.sciencedirect.com/science/article/abs/pii/S0747563223002613)-->
-* [Stacchio, L., Armandi, V., Donatiello, L., & Marfia, G. (2023, March). AnnHoloTator: A Mixed Reality Collaborative Platform for Manufacturing Work Instruction Interaction. In 2023 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW) (pp. 418-424). IEEE.](https://ieeexplore.ieee.org/abstract/document/10108830/)
+<!-- * [Stacchio, L., Armandi, V., Donatiello, L., & Marfia, G. (2023, March). AnnHoloTator: A Mixed Reality Collaborative Platform for Manufacturing Work Instruction Interaction. In 2023 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW) (pp. 418-424). IEEE.](https://ieeexplore.ieee.org/abstract/document/10108830/)-->
 * [Stacchio, L., Angeli, A., & Marfia, G. (2022). Empowering digital twins with eXtended reality collaborations. Virtual Reality & Intelligent Hardware, 4(6), 487-505.](https://www.sciencedirect.com/science/article/pii/S2096579622000596)
- * [Stacchio, L., Angeli, A., Lisanti, G., Calanca, D., & Marfia, G. (2022). Towards a holistic approach to the socio-historical analysis of vernacular photos. ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM).](https://dl.acm.org/doi/abs/10.1145/3507918)
+<!-- * * [Stacchio, L., Angeli, A., Lisanti, G., Calanca, D., & Marfia, G. (2022). Towards a holistic approach to the socio-historical analysis of vernacular photos. ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM).](https://dl.acm.org/doi/abs/10.1145/3507918)-->
 
 </br>
 
@@ -80,11 +84,11 @@ Bachelor Degree | Computer Science | [University of Camerino](https://www.unicam
 
 
 
-## Profile Statistics
+<!--## Profile Statistics
 
 <p align="left">
   <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=lorenzo-stacchio&rank_icon=github" />
-</p>
+</p>-->
 
 
 <!-- ## <img src="https://media.giphy.com/media/3orieJRHB5DJjrVmqk/giphy.gif" width="50"> Profile statistics
