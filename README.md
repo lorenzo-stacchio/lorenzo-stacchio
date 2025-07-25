@@ -56,10 +56,11 @@ Bachelor Degree | Computer Science | [University of Camerino](https://www.unicam
 
 
 ## Selected publications
-* [Hajahmadi, S., Stacchio, L., Giacchè, A., Pasquale C. & Marfia, G. (2024). Investigating eXtended Reality-powered digital twins for sequential instruction learning: The case of the Rubik's cube. Proceedings of the IEEE International Symposium on Mixed and Augmented Reality (ISMAR 2024, October).](https://www.researchgate.net/publication/382773793_Investigating_eXtended_Reality-powered_Digital_Twins_for_sequential_instruction_learning_the_case_of_the_Rubik's_cube)
-* [Stacchio L., Paolanti M., Spigarelli F., Frontoni E. (2024, October). Deep Armocromia: A Novel Dataset for Face Seasonal Color Analysis and Classification. In European Conference on Computer Vision (pp. 1-19). Cham: Springer Nature Switzerland.](https://drive.google.com/file/d/1DYsqPxyVQGSNQ0biDZXzHd0PVII0KuxQ/view)
+
+* [Hajahmadi, S., Stacchio, L., Giacchè, A., Pasquale C. & Marfia, G. (2024). Investigating eXtended Reality-powered digital twins for sequential instruction learning: The case of the Rubik's cube. Proceedings of the IEEE International Symposium on Mixed and Augmented Reality (ISMAR 2024, October).](https://ieeexplore.ieee.org/abstract/document/10765406)
+* [Santarnecchi, E., Balloni, E., Paolanti, M., Frontoni, E., Stacchio, L., Zingaretti, P., & Pierdicca, R. (2025). MineVRA: Exploring the Role of Generative AI-Driven Content Development in XR Environments through a Context-Aware Approach. IEEE Transactions on Visualization and Computer Graphics.](https://ieeexplore.ieee.org/abstract/document/10936995/)
 * [Stacchio, L., Garzarella, S., Cascarano, P., De Filippo, A., Cervellati, E., & Marfia, G. (2024). DanXe: An extended artificial intelligence framework to analyze and promote dance heritage. Digital Applications in Archaeology and Cultural Heritage, 33, e00343.](https://www.sciencedirect.com/science/article/pii/S2212054824000286)
-* [Scorolli, C., Grasso, E. N., Stacchio, L., Armandi, V., Matteucci, G., & Marfia, G. (2023). Would you rather come to a tango concert in theater or in vr? aesthetic emotions & social presence in musical experiences, either live, 2d or 3d. Computers in Human Behavior, 149, 107910.](https://www.sciencedirect.com/science/article/pii/S0747563223002613)
+* [Balloni, E., Stacchio, L., Mancini, A., Frontoni, E., Zingaretti, P., & Paolanti, M. (2025). A Neural Rendering system for fashion design process. Engineering Applications of Artificial Intelligence, 153, 110773.](https://www.sciencedirect.com/science/article/pii/S0952197625007730)
 <!--* [Stacchio, L., Angeli, A., & Marfia, G. (2022). Empowering digital twins with eXtended reality collaborations. Virtual Reality & Intelligent Hardware, 4(6), 487-505.](https://www.sciencedirect.com/science/article/pii/S2096579622000596)-->
 </br>
 
